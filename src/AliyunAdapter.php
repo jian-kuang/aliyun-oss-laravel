@@ -27,6 +27,16 @@ class AliyunAdapter extends BaseAdapter
     }
 
     /**
+     * Get Ali oss client
+     *
+     * @return OssClient
+     */
+    public function getClient(): OssClient
+    {
+        return $this->client;
+    }
+
+    /**
      * Get the URL for the file at the given path.
      *
      * @param  string  $path

@@ -1,13 +1,13 @@
 {
-    "name": "alphasnow/aliyun-oss-laravel",
+    "name": "jian-kuang/aliyun-oss-laravel",
     "description": "alibaba cloud object storage service for laravel",
     "keywords": ["aliyun", "oss", "laravel", "filesystems", "storage"],
-    "homepage": "https://alphasnow.github.io/aliyun-oss-laravel/",
+    "homepage": "https://github.com/jian-kuang/aliyun-oss-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "alphasnow",
-            "email": "wind91@foxmail.com"
+            "name": "jian-kuang",
+            "email": "tanghez1234@gmail.com"
         }
     ],
     "require": {
